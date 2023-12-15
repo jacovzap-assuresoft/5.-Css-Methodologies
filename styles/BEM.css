@@ -11,7 +11,7 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
-#login-page {
+.page {
   width: 360px;
   padding: 8% 0 0;
   margin: auto;
@@ -79,8 +79,11 @@ body {
   cursor: pointer;
 }
 
-.button:hover,
-.button:active,
-.button:focus {
+.form__button--blue:hover,
+.form__button--blue:active,
+.form__button--blue:focus,
+.form__button--green:hover,
+.form__button--green:active,
+.form__button--green:focus {
   background: #43a047;
 }
