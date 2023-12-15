@@ -60,7 +60,7 @@ body {
   font-size: 14px;
 }
 
-a {
+.form__message--help {
   color: #4caf50;
   text-decoration: none;
 }
